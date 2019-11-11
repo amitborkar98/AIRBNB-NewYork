@@ -28,10 +28,11 @@ What are the most important factors affecting the cost of the properties?
 
 *Description
 The following are the files available in this repository:
-1)listings.zip
-2)calendar.zip
+1)listings.rar
+2)calendar.rar
 3)analysis.ipynb
 
 *Results
-The main findings of the code can be found at link https://medium.com/@amitborkar98/inside-airbnb-new-york-adding-data-to-the-debate-12d0d0eafa93
+The main findings of the code can be found at  https://medium.com/@amitborkar98/inside-airbnb-new-york-adding-data-to-debate-72032f3f089d
+
 
